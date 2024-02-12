@@ -1,5 +1,4 @@
 import axios from 'axios';
-
 const BASE_URL = 'https://food-boutique.b.goit.study/api/';
 const CATEGORIES_ENDPOINT = 'products/categories';
 const PRODUCTS_ENDPOINT = 'products';
